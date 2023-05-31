@@ -37,7 +37,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## 🤝 Contributing
 
-Contributions, issues, and feature requests are welcome. Feel free to check [issues page](https://github.com/your-username/project-name/issues) if you want to contribute.
+Contributions, issues, and feature requests are welcome. Feel free to check [issues page](https://github.com/your-username/project-name/issues) if you want to contribute or simply email our team (see 'Contact').
 
 ## 📧 Contact
 
