@@ -1,11 +1,11 @@
-# Your Project Name
+# Advisor Terminal Inc.
 
 ![Version](https://img.shields.io/badge/version-1.0.0-blue.svg?cacheSeconds=2592000)
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
-## 🚀 Welcome to our Project
+## 🚀 Welcome to Advisor Terminal
 
-This repository hosts the code of our cutting-edge application designed to revolutionize the finance industry by ensuring that meeting compliance is completed 80% faster and reducing manual tasks significantly.
+This repository hosts the release versions of our cutting-edge application designed to revolutionize the finance industry by ensuring that meeting compliance is completed 80% faster and reducing manual tasks significantly.
 
 ### 🏗️ Key Features
 
@@ -29,7 +29,7 @@ Our application supports both MacOS and Windows. To install it, please follow th
    - For MacOS: Double click on the downloaded `.dmg` file and drag the application icon to the Applications folder.
    - For Windows: Run the downloaded `.exe` file and follow the on-screen instructions.
 
-Enjoy using our application!
+Enjoy simplified compliance with Advisor Terminal!
 
 ## 🔒 License
 
