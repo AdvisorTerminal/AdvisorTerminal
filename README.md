@@ -20,7 +20,7 @@ This repository hosts the release versions of our cutting-edge application desig
 
 Our application supports both MacOS and Windows. To install it, please follow the steps below:
 
-1. Navigate to the [releases page](https://github.com/your-username/project-name/releases).
+1. Navigate to the [releases page](https://github.com/AdvisorTerminal/AdvisorTerminal/releases).
 2. Choose the latest release.
 3. Download the appropriate file for your operating system:
    - For MacOS, download the `.dmg` file.
@@ -37,14 +37,14 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## 🤝 Contributing
 
-Contributions, issues, and feature requests are welcome. Feel free to check [issues page](https://github.com/your-username/project-name/issues) if you want to contribute or simply email our team (see `Contact`).
+Contributions, issues, and feature requests are welcome. Feel free to check [issues page](https://github.com/AdvisorTerminal/AdvisorTerminal/issues) if you want to contribute or simply email our team (see `Contact`).
 
 ## 📧 Contact
 
 Email: advisorterminal@gmail.com
 
-Project Link: [https://github.com/your-username/project-name](https://github.com/your-username/project-name)
+Website Link: [https://advisorterminal.com](https://advisorterminal.com)
 
 ## 📝 Changelog
 
-Detailed changes for each release are documented in the [release notes](https://github.com/your-username/project-name/releases).
+Detailed changes for each release are documented in the [release notes](https://github.com/AdvisorTerminal/AdvisorTerminal/releases).
